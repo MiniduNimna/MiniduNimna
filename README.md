@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and ambitious undergraduate student in software engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Deepfake Detection application**
+- 🔭 I’m currently working on **a Deepfake video detection web application**
 
 - 📫 How to reach me **nimnanarangoda@gmail.com**
 
