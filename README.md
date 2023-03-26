@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minidu Nimna Narangoda</h1>
-<h3 align="center">A passionate and ambitious undergraduate student in software engineering</h3>
+<h3 align="center">A passionate and ambitious undergraduate student in software engineering. I am interested in back-end development and web development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **a Deepfake video detection web application**
